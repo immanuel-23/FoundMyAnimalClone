@@ -1,0 +1,18 @@
+.para{
+    text-align: center;
+    background-color: black;
+    height: auto;
+    /* padding: 8px 0px; */
+    color:white;
+}
+
+a{
+    font-family: "Brandon","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.icons{
+    width: auto;
+    display: flex;
+    /* background-color:antiquewhite ; */
+
+}
